@@ -1,0 +1,16 @@
+E:\Projects\Emp_JSON\bin\Debug\netcoreapp3.1\Emp_JSON.exe
+E:\Projects\Emp_JSON\bin\Debug\netcoreapp3.1\Emp_JSON.deps.json
+E:\Projects\Emp_JSON\bin\Debug\netcoreapp3.1\Emp_JSON.runtimeconfig.json
+E:\Projects\Emp_JSON\bin\Debug\netcoreapp3.1\Emp_JSON.runtimeconfig.dev.json
+E:\Projects\Emp_JSON\bin\Debug\netcoreapp3.1\Emp_JSON.dll
+E:\Projects\Emp_JSON\bin\Debug\netcoreapp3.1\Emp_JSON.pdb
+E:\Projects\Emp_JSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\Emp_JSON\obj\Debug\netcoreapp3.1\Emp_JSON.csproj.AssemblyReference.cache
+E:\Projects\Emp_JSON\obj\Debug\netcoreapp3.1\Emp_JSON.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Emp_JSON\obj\Debug\netcoreapp3.1\Emp_JSON.AssemblyInfoInputs.cache
+E:\Projects\Emp_JSON\obj\Debug\netcoreapp3.1\Emp_JSON.AssemblyInfo.cs
+E:\Projects\Emp_JSON\obj\Debug\netcoreapp3.1\Emp_JSON.csproj.CoreCompileInputs.cache
+E:\Projects\Emp_JSON\obj\Debug\netcoreapp3.1\Emp_JSON.csproj.CopyComplete
+E:\Projects\Emp_JSON\obj\Debug\netcoreapp3.1\Emp_JSON.dll
+E:\Projects\Emp_JSON\obj\Debug\netcoreapp3.1\Emp_JSON.pdb
+E:\Projects\Emp_JSON\obj\Debug\netcoreapp3.1\Emp_JSON.genruntimeconfig.cache
